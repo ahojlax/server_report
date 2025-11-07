@@ -1,4 +1,4 @@
-# LDS Report Generator
+# Server Status Report Generator
 
 This tool performs system health checks, service status verification, and sends a PDF report via email.
 
