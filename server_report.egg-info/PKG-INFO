@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: server_report
+Version: 1.0.0
+Summary: System health and service status report generator
+Author: Lakshmanan
+Requires-Dist: psutil
+Requires-Dist: pywin32
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

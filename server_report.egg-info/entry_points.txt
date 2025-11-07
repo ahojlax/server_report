@@ -1,0 +1,2 @@
+[console_scripts]
+server-report = server_report.main:main
